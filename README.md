@@ -11,5 +11,5 @@
 ###### 2、新建一个文本文档，命名为content.txt,添加你要发送的短信内容. 
 ###### 3、将number.txt和content.txt上传到SD卡的根目录，然后运行程序，点击Start开始群发。
 
-![Mou icon](http://mouapp.com/Mou_128.png)
+![SuperSMS icon](https://github.com/liuzc/SuperSMS/blob/master/supersms.png)
 
